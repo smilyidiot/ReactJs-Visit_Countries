@@ -1,0 +1,31 @@
+.visited-card {
+  height: 150px;
+  width: 30%;
+  margin: 10px;
+}
+
+.flag {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.remove-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 6px;
+  cursor: pointer;
+}

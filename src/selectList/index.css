@@ -1,0 +1,47 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  height: 64px;
+}
+
+.country {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  flex-grow: 1;
+}
+
+hr {
+  height: 1px;
+  color: #334155;
+}
+
+.button {
+  margin-right: 20px;
+  padding: 10px;
+  width: 80px;
+}
+
+.light-blue {
+  background-color: #3b82f6;
+  border-radius: 10px;
+  color: #f8fafc;
+  font-size: 16px;
+  border: 0px solid;
+  cursor: pointer;
+}
+
+.blue {
+  background-color: transparent;
+  color: #94a3b8;
+  border: 0px solid;
+  font-size: 16px;
+}
+
+.button-para {
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+}
